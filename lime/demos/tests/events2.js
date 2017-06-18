@@ -33,7 +33,7 @@ test.start = function() {
 
 
 	for (var r = 0; r < 5; r++) {
-	    for (var c = 0; c < 5; c++) {
+	    for (var c = 0; c < 6; c++) {
 
 	        var box = (new lime.Sprite)
 	            .setSize(80, 80)
