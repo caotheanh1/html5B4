@@ -20,8 +20,8 @@ goog.require('lime.animation.Spawn');
 goog.require('lime.animation.ColorTo');
 
 
-test.WIDTH = 600;
-test.HEIGHT = 400;
+test.WIDTH = 700;
+test.HEIGHT = 300;
 
 
 test.start = function() {
