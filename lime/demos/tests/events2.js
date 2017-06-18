@@ -12,8 +12,8 @@ goog.require('lime.animation.ScaleTo');
 goog.require('lime.animation.Spawn');
 
 
-test.WIDTH = 600;
-test.HEIGHT = 400;
+test.WIDTH = 1000;
+test.HEIGHT = 700;
 
 
 test.start = function() {
