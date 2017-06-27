@@ -7,7 +7,9 @@
 		
 		<key>walking-e0000.png</key>
 		<dict>
+			
 			<key>x</key>
+			<real>277</r<key>x</key>
 			<real>251</real>
 			<key>y</key>
 			<real>171</real>
@@ -106,9 +108,7 @@
 		</dict>
 		
 		<key>walking-e0005.png</key>
-		<dict>
-			<key>x</key>
-			<real>277</real>
+		<dict>eal>
 			<key>y</key>
 			<real>1</real>
 			<key>width</key>
