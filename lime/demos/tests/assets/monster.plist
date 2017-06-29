@@ -4,48 +4,48 @@
 <dict>
 	<key>frames</key>
 	<dict>
-		<key>walking-e00 (1).png</key>
+		<key>walking-e00 1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{32,32}</string>
+                <string>{31,31}</string>
                 <key>spriteSourceSize</key>
-                <string>{32,32}</string>
+                <string>{31,31}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{32,32}}</string>
+                <string>{{0,0},{31,31}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>walking-e00 (2).png</key>
+            <key>walking-e00 2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-		<string>{32,32}</string>
+		<string>{31,31}</string>
                 <key>spriteSourceSize</key>
-                <string>{32,32}</string>
+                <string>{31,31}</string>
                 <key>textureRect</key>
-                <string>{{32,0},{32,32}}</string>
+                <string>{{32,0},{31,31}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>walking-e00 (3).png</key>
+            <key>walking-e00 3.png</key>
 		<dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{30,82}</string>
+                <string>{30,70}</string>
                 <key>spriteSourceSize</key>
-                <string>{30,82}</string>
+                <string>{30,70}</string>
                 <key>textureRect</key>
-                <string>{{62,0},{30,82}}</string>
+                <string>{{61,0},{30,70}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{30,79}</string>
+                <string>{30,78}</string>
                 <key>spriteSourceSize</key>
-                <string>{30,79}</string>
+                <string>{30,78}</string>
                 <key>textureRect</key>
-                <string>{{92,0},{30,79}}</string>
+                <string>{{91,0},{30,78}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +71,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{32,86}</string>
+                <string>{31,86}</string>
                 <key>spriteSourceSize</key>
-                <string>{32,86}</string>
+                <string>{31,86}</string>
                 <key>textureRect</key>
-                <string>{{122,0},{32,86}}</string>
+                <string>{{121,0},{32186}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
